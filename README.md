@@ -12,7 +12,7 @@
 
   <h2>How does it work?</h2>
   <p>
-    It takes all the <code>.flac</code> files (<code>.mp3</code> support coming soon) inside the folder specified in the last line of the code, and creates a folder representing the album of the music.
+    It takes all the <code>.flac</code> or <code>.mp3</code> files inside the folder specified in the last line of the code, and creates a folder representing the album of the music.
     <br>
     I chose this format for the album folder: <code>ALBUM_ARTIST - ALBUM</code> but you can change it, adding more information such as the year.
     <br>
